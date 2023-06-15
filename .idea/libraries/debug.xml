@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/debug/1_unity-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/debug/0_classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
